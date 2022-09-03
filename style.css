@@ -1,0 +1,275 @@
+.section-1{
+    width: 55%;
+    height: 535px;
+    background-color: white;
+    float: left;
+}
+.section-2{
+    width: 45%;
+    height: 535px;
+    background-color: bisque;
+    float: left;
+}
+body{
+    margin: 0px;
+}
+.header{
+    height: 535px;
+}
+.main-body{
+  height: 850px;
+  
+   
+}
+.food-img{
+    width: 100%;
+    height: 535px;
+}
+.logo-part{
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+
+.logo{
+    width: 72%;
+    height: 78px;
+    margin-top: 85px;
+    margin-left: 74px;
+}
+.login-part{
+    width:50% ;
+    height: 200px;
+    float: left;
+
+}
+.log{
+    margin-left: 163px;
+    color: black;
+    text-decoration: none;
+}
+.log:hover{
+    color: #fc8019;
+}
+.btnsign{
+    padding: 9px 29px;
+    background-color: black;
+    color: white;
+    
+    margin-top: 103px;
+    margin-left: 10px;
+}
+.lineup{
+    margin-left: 116px;
+    margin-top: 50px;
+    height: 12em
+}
+.h1sec1{
+    font-size: 24px;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+    color: #686b78;
+    margin-left: 116px;
+}
+.input{
+    width: 446px;
+    height: 58px;
+    margin-top: 26px;
+    border-color: #fc8019;
+    margin-left: 116px;
+}
+.btnfindfood{
+    width: 171px;
+    height: 64px;
+    background-color: #fc8019;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    border: #fc8019;
+    margin-left: -1px;
+    padding-bottom: 4px;
+
+}
+.h3sec1{
+   color:  #a9abb2;
+   color: #a9abb2;
+    margin-left: 116px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.city{
+    list-style: none;
+    width: 505px;
+    padding-left: 74px;
+    
+}
+.city>ul>li{
+    display: inline-block;
+   
+    padding-left: 10px;
+    padding-top: 5px;
+    
+}
+
+.city>ul>li>a{
+    color: #686b78;
+    text-decoration: none;
+}
+
+.main-1{
+    height: 350px;
+    width: 100%;
+    background-color: #2b1e16;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.main-2{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.main1-img1,.main1-img2,.main1-img3{
+    height: 300px;
+    width: 25%;
+    
+    
+}
+.m-img-1{
+    height:210px;
+    margin-left: 116px;
+    width: 130px;
+}
+.m1-img-h1{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-left: 88px;
+    margin-top: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+.m1-img-quat{
+    font-size: 15px;
+    width: 260px;
+    margin-top: 10px;
+    color: #e0cbc1;
+    line-height: 1.3;
+    margin-left: 70px
+}
+.main2-left,.main2-right{
+    width: 50%;
+    height: 505px;
+
+    
+}
+
+
+.m2-h1{
+    font-size: 40px;
+    font-weight: 600;
+    width: 300px;
+    line-height: 1;
+    letter-spacing: -.45px;
+    margin-left: 150px;
+    margin-top: 131px;
+}
+.m2-h2{
+    font-size: 20px;
+    width: 400px;
+    font-weight: 300;
+    color: #7e808c;
+    line-height: 1.2;
+    margin-left: 150px;
+    margin-top: 31px;
+}
+.play-img{
+    height: 55px;
+    margin-left: 145px;
+    margin-top: 83px;
+}
+.ios-img{
+    height: 55px;
+    margin-left: 23px;
+}
+.mob1-img{
+    height: 400px;
+}
+.mob2-img{
+    height: 452px;
+    margin-top: 48px;
+    margin-left: -31px
+}
+.m2-d1{
+    float: left;
+}
+.m2-d2{
+    float: left;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 415px;
+}
+.foot1,.foot2,.foot3,.foot4{
+    height: 415px;
+    width: 25%;
+
+
+}
+.f1-h{
+    color: gray;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-left: 145px;
+    margin-top: 75px;
+}
+.foot1>ul>li{
+ margin-left: 110px;
+ list-style: none;
+ line-height: 30px;
+ 
+}
+.foot1>ul>li>a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+}
+.foot2>ul>li{
+    margin-left: 110px;
+    list-style: none;
+    line-height: 30px;
+    
+   }
+   .foot2>ul>li>a{
+       text-decoration: none;
+       color: #fff;
+       font-weight: 500;
+   }
+.foot3>ul>li{
+    margin-left: 110px;
+    list-style: none;
+    line-height: 30px;
+    
+   }
+   .foot3>ul>li>a{
+       text-decoration: none;
+       color: #fff;
+       font-weight: 500;
+   }
+
+.f-ios-img{
+    height: 66px;
+    margin-left: 41px;
+    margin-top: 23px;
+}
+.f-ply-img {
+    height: 66px;
+    margin-left: 41px;
+    margin-top: 77px;
+}
